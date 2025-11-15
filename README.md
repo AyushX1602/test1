@@ -1,0 +1,11 @@
+
+  # Shopify Review Analytics Platform
+
+  This is a code bundle for Shopify Review Analytics Platform. The original project is available at https://www.figma.com/design/xHrgc8DIoyl4zVzCdO9ZTM/Shopify-Review-Analytics-Platform.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
