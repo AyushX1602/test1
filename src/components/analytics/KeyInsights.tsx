@@ -19,7 +19,7 @@ export function KeyInsights() {
     <div className="bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 rounded-xl p-6 shadow-sm h-full">
       <div className="mb-6">
         <h2 className="text-xl text-gray-900 dark:text-white">Key Insights</h2>
-        <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">Top positives and negatives</p>
+        <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">Top positive and negatives</p>
       </div>
 
       <div className="space-y-6">
